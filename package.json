@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "-": "0.0.1",
     "@angular/animations": "~8.2.13",
     "@angular/common": "~8.2.13",
     "@angular/compiler": "~8.2.13",
@@ -19,7 +20,9 @@
     "@angular/platform-browser": "~8.2.13",
     "@angular/platform-browser-dynamic": "~8.2.13",
     "@angular/router": "~8.2.13",
+    "angular-cli-ghpages": "^1.0.0-rc.1",
     "rxjs": "~6.4.0",
+    "save-dev": "0.0.1-security",
     "tslib": "^1.10.0",
     "xlsx": "^0.16.9",
     "zone.js": "~0.9.1"
